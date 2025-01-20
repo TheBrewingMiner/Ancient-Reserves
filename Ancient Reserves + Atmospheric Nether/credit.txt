@@ -1,0 +1,5 @@
+Datapack created and configured by TheBrewingMiner
+
+PlanetMinecraft: https://www.planetminecraft.com/member/thebrewingminer/
+
+Minecraft worldgen derived from: https://github.com/misode/mcmeta/tree/data-json/data/minecraft/

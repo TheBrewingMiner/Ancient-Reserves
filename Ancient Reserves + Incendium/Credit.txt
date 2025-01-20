@@ -1,0 +1,6 @@
+Datapack created and configured by TheBrewingMiner
+PlanetMinecraft: https://www.planetminecraft.com/member/thebrewingminer/
+
+Incendium by Starmute, et. al (Stardust Labs). https://www.stardustlabs.net/version-library
+
+Minecraft worldgen derived from: https://github.com/misode/mcmeta/tree/data-json/data/minecraft/
