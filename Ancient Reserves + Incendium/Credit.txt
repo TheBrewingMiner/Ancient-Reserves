@@ -1,5 +1,5 @@
-Datapack created and configured by TheBrewingMiner
 PlanetMinecraft: https://www.planetminecraft.com/member/thebrewingminer/
+Modrinth: https://modrinth.com/user/TheBrewingMiner
 
 Incendium by Starmute, et. al (Stardust Labs). https://www.stardustlabs.net/version-library
 
