@@ -3,7 +3,7 @@
       "pack_format": 10,
       "supported_formats": [
          10,
-         57
+         61
       ],
       "description": "§l§6Lost treasure waiting to be found!"
    },
@@ -28,6 +28,13 @@
            "formats": [
              49,
              57
+            ]
+         },
+         {
+           "directory": "1-21-4-overlay",
+           "formats": [
+             58,
+             61
             ]
          }
       ]
