@@ -3,7 +3,7 @@
       "pack_format": 10,
       "supported_formats": [
          10,
-         57
+         71
       ],
       "description": "§l§6Lost treasure waiting to be found in Incendium!"
    },
@@ -21,6 +21,13 @@
            "formats": [
              49,
              57
+            ]
+         },
+         {
+           "directory": "1-21-4-overlay",
+           "formats": [
+             58,
+             71
             ]
          }
       ]
